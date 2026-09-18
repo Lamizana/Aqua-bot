@@ -1,20 +1,29 @@
-# Aqua-bot
+<div align="center">
+<p>
+    <a href="https://docs.ros.org/en/humble/"><img src="https://img.shields.io/badge/ROS2-Humble-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2 Humble"></a>
+    <a href="https://gazebosim.org/"><img src="https://img.shields.io/badge/Simulator-Gazebo-orange?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo"></a>
+    <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+    <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/OS-Ubuntu_22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"></a>
+    
+</p>
+    
+<h1>Aqua Bot</h1>
 
-> By Alex LAMIZANA, Mathys VITIELLO, Nathan TRIJAUD
--------------------------------------------------------------------------------
+<p><strong>Système de mission autonome pour drone de surface (USV) - Challenge Sirehna 2024</strong></p><br>
 
-## Sommaire
+<p>
+  <em>Développer et implémenter un système de mission dans un drone de surface (USV) virtuel au sein d’un environnement de développement et de simulation mis à disposition par les organisateurs</em>
+</p>
 
-1. [ Le Design Thinking.](/doc/designThinking.md)
-2. [ Installation et tutoriels Ros 2 .](/doc/ros2.md)
-3. [ Installation et tutoriels Gazebo Garden .](/doc/gazebo.md)
+<a href="https://lamizana.github.io/ZehdBox/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-ZehdBox-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio ZehdBox"></a>
 
+</div>
 
--------------------------------------------------------------------------------
+---
 
 ## Introduction
 
-Développer et implémenter un système de mission dans un drone de surface (USV) virtuel au sein d’un environnement de développement et de simulation mis à disposition par les organisateurs.
 
 L’édition 2024 de la compétition Aqua.Bot propose de vous affronter par équipe autour d’une mission simulée de maintenance d’un champ éolien. Les équipes participantes seront amenées à ***développer et implémenter un système de mission dans un drone de surface (USV)* virtuel au sein d’un environnement de développement et de simulation mis à disposition par les organisateurs***.
 
@@ -23,15 +32,6 @@ L’environnement de simulation proposé permet de s’affranchir des étapes de
 L’environnement proposé permet d’assurer la répétabilité de vos essais et ainsi d’évaluer les compétiteurs avec un échantillon de simulation suffisamment représentatif.
 
 Les compétences minimums requises pour cette mission sont : **C++, Python, ROS2, Gazebo**
-
-- Site sirehna :
-https://www.sirehna-challengeaquabot.com/program/challenge-aquabot-2
-
-- Gihub Aquabot Sirehna :
-https://github.com/sirehna/Aquabot#installation
-
-- Gihub Aquabot Sirehna Competitor:
-https://github.com/sirehna/Aquabot-Competitor#installation
 
 -------------------------------------------------------------------------------
 
