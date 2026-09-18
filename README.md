@@ -8,7 +8,7 @@
     
 </p>
     
-<h1>Aqua Bot</h1>
+<h1>AquaBot</h1>
 
 <p><strong>Système de mission autonome pour drone de surface (USV) - Challenge Sirehna 2024</strong></p><br>
 
@@ -25,7 +25,7 @@
 ## Introduction
 
 
-L’édition 2024 de la compétition Aqua.Bot propose de vous affronter par équipe autour d’une mission simulée de maintenance d’un champ éolien. Les équipes participantes seront amenées à ***développer et implémenter un système de mission dans un drone de surface (USV)* virtuel au sein d’un environnement de développement et de simulation mis à disposition par les organisateurs***.
+L’édition 2024 de la compétition AquaBot propose de vous affronter par équipe autour d’une mission simulée de maintenance d’un champ éolien. Les équipes participantes seront amenées à ***développer et implémenter un système de mission dans un drone de surface (USV)* virtuel au sein d’un environnement de développement et de simulation mis à disposition par les organisateurs***.
 
 L’environnement de simulation proposé permet de s’affranchir des étapes de fabrication de l’USV, pour se concentrer sur la réalisation de l’automatisation du système durant les missions.
 
